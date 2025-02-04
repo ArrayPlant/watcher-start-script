@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+cd /
 
 echo "Запускаем KeyBOT/keyBOT.py..."
 python3 KeyBOT/keyBOT.py &
